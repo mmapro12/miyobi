@@ -17,12 +17,17 @@ opencv-contrib-python==4.11.0.86
 opencv-python==4.11.0.86
 opt_einsum==3.4.0
 packaging==25.0
+pandas==2.2.3
 pillow==11.2.1
 protobuf==4.25.7
+psutil==7.0.0
 pycparser==2.22
 pyparsing==3.2.3
 python-dateutil==2.9.0.post0
+pytz==2025.2
 scipy==1.15.2
+screen_brightness_control==0.24.2
 sentencepiece==0.2.0
 six==1.17.0
 sounddevice==0.5.1
+tzdata==2025.2
